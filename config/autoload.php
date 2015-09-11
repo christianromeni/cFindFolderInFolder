@@ -6,10 +6,10 @@
  * Copyright (C) 2005-2013 Leo Feyer
  *
  * @package   cFindFolderInFolder
- * @author    Christian Romeni  <c.romeni@brainfactory.de>
- * @link      https://brainfactory.de
+ * @author    Christian Romeni  <christian@romeni.eu>
+ * @link      https://romeni.eu
  * @license   GNU
- * @copyright BrainFactory
+ * @copyright Romeni WebDesign
  */
 
 ClassLoader::addNamespaces(array
