@@ -1,5 +1,17 @@
 <?php
 /**
+ * Contao Open Source CMS
+ *
+ * Copyright (C) 2005-2013 Leo Feyer
+ *
+ * @package   cFindFolderInFolder
+ * @author    Christian Romeni  <christian@romeni.eu>
+ * @link      https://romeni.eu
+ * @license   GNU
+ * @copyright Romeni WebDesign
+ */
+ 
+/**
 * Find all folder in a folder
 *
 * @param string $strPath    The folder path
